@@ -1,0 +1,9 @@
+﻿indicador,sitios,sitios_con_dato,porcentaje
+N-NO3 > 11 mg/L (incumple),3,121,2.5
+N-NO3 > 5 mg/L (pierde categoría 'excelente'),48,121,39.7
+"Coliformes fecales > 1,000 NMP/100 mL (incumple)",0,88,0.0
+Coliformes fecales > 200 NMP/100 mL (categoría 'aceptable'),6,88,6.8
+Coliformes fecales detectados (≥ 1),50,88,56.8
+"SDT > 2,000 mg/L (incumple)",2,121,1.7
+"SDT > 1,000 mg/L (ligeramente salobre o más)",29,121,24.0
+"Conductividad > 2,000 µS/cm (incumple)",21,121,17.4
