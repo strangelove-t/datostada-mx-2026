@@ -1,0 +1,238 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Evidence Board · Sapos AI · Dos mapas bajo Yucatán</title>
+<style>
+  @page { size: Letter; margin: 12mm 16mm 11mm 16mm; }
+  :root { --tinta:#14242b; --suave:#4a5b63; --linea:#c9d3d6; --acento:#0b5d6b; --fondo:#eef3f4; --sal:#0a4a55; --bac:#8a3a12; }
+  * { box-sizing: border-box; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  body { font-family: "Segoe UI", Arial, sans-serif; color: var(--tinta); font-size: 9.45pt; line-height: 1.31; margin: 0; }
+  header { padding-bottom: 5pt; display: flex; justify-content: space-between; align-items: flex-end; gap: 12pt; }
+  header > div:first-child { flex: none; }
+  .firma { display: flex; height: 3.2pt; gap: 2.5pt; margin-bottom: 7pt; }
+  .firma i { flex: 1; } .firma i:first-child { background: var(--sal); } .firma i:last-child { background: var(--bac); }
+  .pt { display: inline-block; width: 6.4pt; height: 6.4pt; margin: 0 2.5pt 0 0; vertical-align: 1pt; }
+  .pt.s { background: var(--sal); border-radius: 50%; } .pt.b { background: var(--bac); transform: rotate(45deg); }
+  .reto { font-size: 8pt; letter-spacing: .09em; text-transform: uppercase; color: var(--acento); font-weight: 600; }
+  h1 { font-family: Georgia, "Times New Roman", serif; font-size: 20pt; line-height: 1.12; margin: 3pt 0 0; font-weight: 700; }
+  .bajada { font-size: 10.6pt; color: var(--suave); margin-top: 2pt; }
+  .meta { text-align: right; font-size: 8pt; color: var(--suave); line-height: 1.3; white-space: nowrap; }
+  .meta b { color: var(--tinta); font-size: 9.5pt; }
+  h2 { font-size: 8.4pt; letter-spacing: .08em; text-transform: uppercase; color: var(--acento); margin: 6pt 0 3pt; font-weight: 700; }
+  p { margin: 0 0 4pt; }
+  .hallazgo { font-family: Georgia, serif; font-size: 13.4pt; line-height: 1.27; margin: 1pt 0 0; }
+  ol, ul { margin: 2pt 0 4pt; padding-left: 15pt; }
+  li { margin-bottom: 1.5pt; }
+  .dos { display: grid; grid-template-columns: 1fr 1fr; gap: 0 16pt; }
+  .tres { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0 14pt; }
+  figure { margin: 0; }
+  figure img { width: 100%; display: block; }
+  .mapa img { border: .8pt solid var(--linea); }
+  .tit { font-size: 9.4pt; font-weight: 700; margin-bottom: 3pt; }
+  .tit span { font-weight: 400; color: var(--suave); }
+  figcaption { display: flex; flex-wrap: wrap; gap: 2pt 10pt; font-size: 7.8pt; color: var(--suave); margin-top: 4pt; }
+  .ley { display: inline-flex; align-items: center; gap: 3pt; white-space: nowrap; }
+  .nota { font-size: 7.9pt; color: var(--suave); }
+  .caja { border-left: .8pt solid var(--tinta); padding: 1pt 0 1pt 8pt; }
+  .caja h3 { font-size: 7.8pt; letter-spacing: .08em; text-transform: uppercase; margin: 0 0 3pt; color: var(--acento); }
+  .caja h3 { color: var(--tinta); }
+  .num { font-family: Georgia, serif; font-size: 17pt; line-height: 1.05; font-weight: 700; }
+  table { width: 100%; border-collapse: collapse; font-size: 8.5pt; margin: 2pt 0 4pt; }
+  th { text-align: left; font-size: 7.5pt; letter-spacing: .05em; text-transform: uppercase; color: var(--suave); border-bottom: 1pt solid var(--tinta); padding: 2pt 5pt 2pt 0; }
+  td { border-bottom: .6pt solid var(--linea); padding: 2.4pt 5pt 2.4pt 0; vertical-align: top; }
+  .c { font-family: Consolas, monospace; font-size: 7.9pt; }
+  .compacta td { padding-top: 1.5pt; padding-bottom: 1.5pt; }
+  .mapas { padding: 0 3.5%; }
+  .pagina { break-before: page; }
+  footer { margin-top: 7pt; border-top: .8pt solid var(--linea); padding-top: 5pt; font-size: 7.8pt; color: var(--suave); }
+  footer b { color: var(--tinta); }
+</style>
+</head>
+<body>
+
+<header>
+  <div>
+    <div class="reto">Datostada MX 2026 · Reto Yucatán Vivo: El agua que no vemos · Fase 2 Explore</div>
+    <h1>Dos mapas bajo Yucatán</h1>
+    <div class="bajada">Qué tiene el agua subterránea monitoreada de Yucatán, dónde, y qué tratamiento pide.</div>
+  </div>
+  <div class="meta"><b>Equipo Sapos AI</b><br>Christian Carreño · Christopher Quiñones<br>Daniel Gómez · Eliana Osorio · Raúl Cetina<br>Evidence Board · 13 de noviembre de 2026</div>
+</header>
+<div class="firma"><i></i><i></i></div>
+
+<h2>Hallazgo</h2>
+<div class="hallazgo">El agua subterránea monitoreada en Yucatán no tiene un solo problema: tiene dos mapas distintos. Las <span class="pt s"></span>sales y la dureza son más frecuentes hacia el poniente del estado; las <span class="pt b"></span>bacterias fecales aparecen en las cuatro zonas y con mayor frecuencia en los cenotes.</div>
+
+<div class="dos mapas" style="margin-top:6pt">
+  <figure class="mapa">
+    <div class="tit"><span class="pt s" style="font-weight:400"></span>Sales <span>· sitios según cuántos de sus muestreos superan 1,000 mg/L de sólidos disueltos totales</span></div>
+    <img src="fig-mapa-sales.svg" alt="Mapa de sitios según excedencia de sólidos disueltos totales">
+    <figcaption>
+      <span class="ley"><svg width="9" height="9"><circle cx="4.5" cy="4.5" r="3" fill="#c6dde1"/></svg> Nunca (71 sitios)</span>
+      <span class="ley"><svg width="11" height="11"><circle cx="5.5" cy="5.5" r="4.3" fill="#4f9aa6"/></svg> A veces (16)</span>
+      <span class="ley"><svg width="13" height="13"><circle cx="6.5" cy="6.5" r="5.6" fill="#0a4a55"/></svg> En la mitad o más de sus muestreos (34)</span>
+    </figcaption>
+  </figure>
+  <figure class="mapa">
+    <div class="tit"><span class="pt b" style="font-weight:400"></span>Bacterias <span>· sitios según cuántos de sus muestreos detectaron coliformes fecales</span></div>
+    <img src="fig-mapa-bacterias.svg" alt="Mapa de sitios según detección de coliformes fecales">
+    <figcaption>
+      <span class="ley"><svg width="9" height="9"><circle cx="4.5" cy="4.5" r="3" fill="#f0d6c2"/></svg> Nunca (37)</span>
+      <span class="ley"><svg width="11" height="11"><circle cx="5.5" cy="5.5" r="4.3" fill="#cf8552"/></svg> A veces (33)</span>
+      <span class="ley"><svg width="13" height="13"><circle cx="6.5" cy="6.5" r="5.6" fill="#8a3a12"/></svg> En la mitad o más (18)</span>
+      <span class="ley"><svg width="9" height="9"><circle cx="4.5" cy="4.5" r="2.8" fill="#fff" stroke="#4a5b63"/></svg> Sin medición (33)</span>
+    </figcaption>
+  </figure>
+</div>
+<p class="nota" style="margin-top:4pt">Cada punto es un sitio de la red; el rombo es un cenote y el círculo un pozo. Las líneas punteadas separan las cuatro zonas usadas en este análisis, definidas por longitud: Poniente (al oeste de 89.9° O; sitios de Celestún, Halachó, Kinchil, Maxcanú, Samahil y Tetiz), Franja de Mérida (89.9° a 89.3° O), Centro (89.3° a 88.6° O) y Oriente (al este de 88.6° O). Elaboración del equipo con datos de RENAMECA (CONAGUA); límites estatales de Natural Earth.</p>
+
+<div class="tres" style="margin-top:5pt">
+  <div class="caja"><h3>Observado</h3>
+    <p><b>Sales.</b> Supera la referencia de sólidos disueltos 86.7&nbsp;% de los muestreos del Poniente, 28.6&nbsp;% de la Franja de Mérida, 9.5&nbsp;% del Centro y 14.8&nbsp;% del Oriente. De los 34 sitios que la superan en la mitad o más de sus muestreos, 25 están al oeste de 89.6° O.</p>
+    <p><b>Dureza.</b> De 89.7&nbsp;% en el Poniente a 18.2&nbsp;% en el Oriente.</p>
+    <p style="margin:0"><b>Bacterias.</b> Hay coliformes fecales en las cuatro zonas: solo en pozos, de 18.2&nbsp;% a 36.2&nbsp;% de los muestreos por zona. En cenotes, 79.4&nbsp;% de 97 muestreos; en pozos, 27.5&nbsp;% de 505.</p>
+  </div>
+  <div class="caja i"><h3>Interpretación</h3>
+    <p>Son dos patrones distintos. La salinidad y la dureza varían con la ubicación del sitio: son más frecuentes al poniente, tanto en la zona Poniente como en el occidente de la Franja de Mérida.</p>
+    <p>La detección de bacterias fecales no se limita a una zona y es más frecuente en los cenotes que en los pozos de la red.</p>
+    <p style="margin:0">Son asociaciones. No identificamos el origen de ninguno de los dos.</p>
+  </div>
+  <div class="caja i"><h3>Implicación</h3>
+    <p>Cada patrón pide un tratamiento diferente. La desinfección es pertinente en las cuatro zonas monitoreadas; atender sales y dureza importa sobre todo en el poniente del estado. La tabla de abajo lo lleva a sitios.</p>
+    <p style="margin:0">Para quien decide dónde vigilar y tratar, la pregunta útil no es «¿está bien el agua?», sino «¿qué tiene el agua aquí?».</p>
+  </div>
+</div>
+
+<h2>Los dos mapas juntos · qué atender en cada sitio</h2>
+<table class="compacta">
+  <tr><th>Zona</th><th>Sitios</th><th>Ninguno recurrente</th><th>Sales o dureza</th><th>Bacterias</th><th>Ambos</th></tr>
+  <tr><td><b>Poniente</b></td><td>9</td><td>0</td><td>8</td><td>0</td><td>1</td></tr>
+  <tr><td><b>Franja de Mérida</b></td><td>69</td><td>24</td><td>33</td><td>9</td><td>3</td></tr>
+  <tr><td><b>Centro</b></td><td>30</td><td>22</td><td>7</td><td>1</td><td>0</td></tr>
+  <tr><td><b>Oriente</b></td><td>13</td><td>6</td><td>3</td><td>3</td><td>1</td></tr>
+  <tr><td><b>Yucatán</b></td><td><b>121</b></td><td><b>52</b></td><td><b>51</b></td><td><b>13</b></td><td><b>5</b></td></tr>
+</table>
+<p class="nota">«Recurrente»: el sitio rebasa la referencia en la mitad o más de sus muestreos (sólidos disueltos o dureza; coliformes fecales). En 33 sitios no se midieron coliformes (15 de «ninguno» y 18 de «sales o dureza»). Los 5 sitios con ambos: un pozo en Chemax, uno en Halachó y uno en Opichén, y dos cenotes, en Chapab y Kopomá.</p>
+
+<div class="pagina">
+<h2>Resultados por zona · porcentaje de muestreos sobre el valor de referencia</h2>
+<div class="tres">
+  <figure><div class="tit">Sólidos disueltos <span>&gt; 1,000 mg/L</span></div><img src="fig-zona-sales.svg" alt="Barras por zona, sólidos disueltos"></figure>
+  <figure><div class="tit">Dureza total <span>&gt; 500 mg/L</span></div><img src="fig-zona-dureza.svg" alt="Barras por zona, dureza"></figure>
+  <figure><div class="tit">Coliformes fecales <span>detectados</span></div><img src="fig-zona-bacterias.svg" alt="Barras por zona, coliformes"></figure>
+</div>
+<p class="nota" style="margin-top:3pt">Solo en pozos, la detección de coliformes por zona es 18.2&nbsp;% (Poniente, 11 muestreos), 28.0&nbsp;% (Franja de Mérida, 368), 19.1&nbsp;% (Centro, 68) y 36.2&nbsp;% (Oriente, 58).</p>
+<table class="compacta" style="margin-top:5pt">
+  <tr><th>Zona</th><th>Sitios</th><th>Sitios que superan sólidos disueltos en la mitad o más de sus muestreos</th><th>Mediana de sólidos disueltos por sitio</th><th>Sitios con coliformes medidos</th><th>Sitios con alguna detección</th></tr>
+  <tr><td><b>Poniente</b></td><td>9</td><td>9 de 9</td><td>1,506.5 mg/L</td><td>5</td><td>2</td></tr>
+  <tr><td><b>Franja de Mérida</b></td><td>69</td><td>21 de 69</td><td>765.0 mg/L</td><td>48</td><td>31</td></tr>
+  <tr><td><b>Centro</b></td><td>30</td><td>2 de 30</td><td>624.5 mg/L</td><td>22</td><td>11</td></tr>
+  <tr><td><b>Oriente</b></td><td>13</td><td>2 de 13</td><td>765.5 mg/L</td><td>13</td><td>7</td></tr>
+</table>
+
+<div class="tres" style="margin-top:8pt">
+  <div>
+    <h2 style="margin-top:0">Cenotes y pozos</h2>
+    <figure><div class="tit">Coliformes fecales <span>detectados</span></div><img src="fig-subtipo-bacterias.svg" alt="Barras de coliformes en cenotes y pozos"></figure>
+    <p class="nota" style="margin-top:4pt">Los 8 cenotes de la red tuvieron al menos una detección y 7 la tuvieron en la mitad o más de sus muestreos. De 80 pozos con medición, 43 tuvieron alguna detección y 11 en la mitad o más.</p>
+  </div>
+  <div>
+    <h2 style="margin-top:0">Todos los parámetros</h2>
+    <figure><div class="tit">Muestreos sobre la referencia <span>en todo el estado</span></div><img src="fig-parametros.svg" alt="Barras por parámetro"></figure>
+  </div>
+  <div>
+    <h2 style="margin-top:0">En el tiempo</h2>
+    <div class="caja">
+      <div class="num">0 de 30</div>
+      <p style="margin:2pt 0 4pt">sitios con ocho o más años de datos muestran un aumento significativo de sólidos disueltos. En 3 baja y en 27 no hay tendencia.</p>
+      <p class="nota" style="margin:0">Prueba de Mann-Kendall sobre la mediana anual de cada sitio (p &lt; 0.05). Con 30 pruebas se esperan uno o dos resultados significativos por azar.</p>
+    </div>
+    <p class="nota" style="margin-top:5pt">En esos mismos sitios, la detección de coliformes varió entre 13.8&nbsp;% y 59.3&nbsp;% de los muestreos por año de 2012 a 2020, sin una dirección clara (2021 y 2022 tienen menos de 15 muestreos con coliformes). No encontramos señal de deterioro; eso no prueba que no lo haya.</p>
+  </div>
+</div>
+
+<p class="nota" style="margin-top:5pt">Referencias de la NOM-127-SSA1-2021, en mg/L: dureza 500; sólidos disueltos 1,000; nitrógeno de nitratos 11; cromo 0.05; plomo 0.01; mercurio 0.006; arsénico 0.01 y cadmio 0.003 (límites de cumplimiento gradual, tabla 5). Coliformes fecales: cualquier detección; con el umbral de 1,000 NMP/100 mL, que CONAGUA clasifica como «contaminada», lo superan 7.0&nbsp;% de los 602 muestreos, en 19 sitios.</p>
+
+<h2>Lo que un resumen por sitio no deja ver</h2>
+<div class="dos">
+  <div class="caja"><div class="num">0 sitios → 19 sitios</div>
+    <p style="margin:2pt 0 0"><b>Coliformes fecales sobre 1,000 NMP/100 mL.</b> Con un solo valor por sitio (media geométrica), ninguno de los 88 sitios medidos lo supera. Muestreo por muestreo, 19 sitios lo superaron al menos una vez.</p></div>
+  <div class="caja"><div class="num">3 sitios → 14 sitios</div>
+    <p style="margin:2pt 0 0"><b>Nitrógeno de nitratos sobre 11 mg/L.</b> Con un solo valor por sitio (mediana), lo superan 3 de 121 sitios. Muestreo por muestreo, 14 sitios lo superaron al menos una vez.</p></div>
+</div>
+<p class="nota" style="margin-top:3pt">El valor por sitio lo calculó el equipo con las reglas que CONAGUA publica para su semáforo; no es el semáforo oficial. Los valores con «&lt;» se tomaron en su límite de detección. Un resumen por sitio sirve para clasificar; el detalle por muestreo muestra los episodios que ese resumen promedia.</p>
+
+<h2>Datos utilizados</h2>
+<table class="compacta">
+  <tr><th style="width:44%">Fuente</th><th>Contenido usado</th><th style="width:26%">Archivo en esta carpeta</th></tr>
+  <tr><td><b>RENAMECA, CONAGUA.</b> Calidad del agua subterránea, descargado el 13 nov 2026 de gob.mx/conagua</td><td>121 sitios y 683 muestreos de Yucatán, del 24 nov 2012 al 15 nov 2023; 9 parámetros</td><td class="c">datos/Subterraneo.xlsb</td></tr>
+  <tr><td><b>NOM-127-SSA1-2021</b> (DOF, 2 de mayo de 2022), tablas 2, 4, 5 y 6</td><td>Valores de referencia por parámetro</td><td>Nota de referencias</td></tr>
+  <tr><td><b>CONAGUA (2025).</b> Generalidades de los indicadores de calidad del agua</td><td>Reglas del semáforo y escala de coliformes</td><td>Procedimiento 6</td></tr>
+  <tr><td><b>Natural Earth</b> (dominio público), límites estatales</td><td>Contorno de la península para los mapas</td><td class="c">datos/peninsula.geojson</td></tr>
+</table>
+</div>
+
+<div class="pagina">
+<div class="dos">
+  <div>
+    <h2 style="margin-top:0">Preparación y calidad del dato</h2>
+    <table>
+      <tr><th>Revisión</th><th>Resultado</th></tr>
+      <tr><td>Recorte a Yucatán por el campo ESTADO</td><td>121 de 2,872 sitios; 683 de 14,519 registros</td></tr>
+      <tr><td>Nombres de municipio con y sin acento o con espacios sobrantes</td><td>75 grafías en la fuente; 64 municipios tras unificar</td></tr>
+      <tr><td>Duplicados de sitio y fecha</td><td>0</td></tr>
+      <tr><td>Registros sin sitio o sitios sin registros</td><td>0 en Yucatán</td></tr>
+      <tr><td>Coordenadas fuera del estado</td><td>0; dos cenotes de Chemax quedan sobre el límite con Quintana Roo</td></tr>
+      <tr><td>Año frente a fecha del muestreo</td><td>Coinciden en los 683 registros</td></tr>
+      <tr><td>Valores bajo el límite de detección («&lt;»)</td><td>Coliformes 64.1&nbsp;%; arsénico 96.5&nbsp;%; cromo 81.9&nbsp;%; plomo 98.1&nbsp;%; mercurio 89.9&nbsp;%; cadmio 100&nbsp;%; nitratos 3.1&nbsp;%; sólidos disueltos y dureza 0&nbsp;%</td></tr>
+      <tr><td>Sitios sin medición de coliformes</td><td>33 de 121, que son los 33 sitios incorporados en 2022. Hay coliformes en 42 de 82 muestreos de 2022 y en ninguno de 2023</td></tr>
+      <tr><td>Cambios en la red</td><td>De 36 a 71 sitios muestreados en 2019; 11 muestreos en 2021; 33 sitios nuevos en 2022</td></tr>
+    </table>
+
+    <h2>Procedimientos</h2>
+    <ol>
+      <li><b>Lectura.</b> Se leen las tres hojas del archivo original sin alterar ningún valor.</li>
+      <li><b>Excedencia.</b> Un muestreo supera la referencia si su valor es mayor que el límite de la norma. Un valor reportado con «&lt;» cuenta como no detectado y nunca como excedencia; uno con «&gt;» cuenta como detección.</li>
+      <li><b>Por sitio.</b> Cada sitio se clasifica en «nunca», «a veces» o «en la mitad o más de sus muestreos».</li>
+      <li><b>Por zona.</b> Cuatro franjas de longitud. Es una división descriptiva del equipo, no una regionalización oficial.</li>
+      <li><b>En el tiempo.</b> Solo sitios con ocho o más años de datos (30). Para cada uno se revisa si la mediana anual de sólidos disueltos sube o baja de forma sostenida (prueba de Mann-Kendall).</li>
+      <li><b>Por qué muestreo por muestreo.</b> CONAGUA publica un semáforo que resume cada sitio en un solo valor del periodo (mediana, promedio o media geométrica, según el parámetro). Aquí se usa cada muestreo para ver con qué frecuencia se rebasa la referencia y los episodios que un resumen promedia. Los dos patrones corresponden a los dos grupos de ese semáforo: indicadores sanitarios (rojo) y de salinidad y dureza (amarillo).</li>
+      <li><b>Verificación.</b> Cada cifra de este documento se recalcula desde el archivo original y se compara con lo escrito.</li>
+    </ol>
+  </div>
+  <div>
+    <h2 style="margin-top:0">Límites</h2>
+    <ul>
+      <li><b>El Poniente son 9 sitios y 30 muestreos.</b> El patrón es consistente (9 de 9 sitios), pero la base es pequeña.</li>
+      <li><b>Las zonas son una elección nuestra.</b> Otros cortes darían otros porcentajes; el mapa muestra los sitios sin agrupar.</li>
+      <li><b>Los cenotes son 8.</b> Y se muestrearon más veces que los pozos (97 muestreos de coliformes en 8 cenotes; 505 en 80 pozos). El 53.1&nbsp;% del Oriente incluye dos cenotes de Chemax (22 detecciones en 23 muestreos); solo en pozos es 36.2&nbsp;%.</li>
+      <li><b>La red no es una muestra aleatoria.</b> Tiene sitios en 64 de los 106 municipios del estado y 69 de 121 sitios están en la Franja de Mérida; el Oriente y el sur tienen poca cobertura.</li>
+      <li><b>Es agua del acuífero sin tratar.</b> No describe el agua que llega a los hogares; la norma se usa como referencia, no para declarar incumplimiento.</li>
+      <li><b>Los coliformes tienen límites de detección distintos</b> («&lt;1» a «&lt;30»): el porcentaje de detección es un mínimo.</li>
+      <li><b>El porcentaje de muestreos pesa más a los sitios más visitados.</b> Por eso se reportan también los conteos por sitio.</li>
+      <li><b>No se separó temporada de lluvias y de secas</b>, ni se cruzó con uso de suelo o población.</li>
+      <li><b>Los 30 sitios con seguimiento largo</b> son de la red original e incluyen 5 cenotes; no representan a los sitios incorporados después.</li>
+      <li><b>El análisis es descriptivo.</b> No identifica el origen de las sales ni de las bacterias y no afirma causas.</li>
+    </ul>
+
+    <h2>Respecto al Data Brief</h2>
+    <p>La pregunta no cambió. El proyecto toma nombre propio, «Dos mapas bajo Yucatán», por su hallazgo. Se añadieron la definición de zonas y la clasificación por sitio. Cloruros y sodio no se usan como criterio porque la norma vigente no les fija límite.</p>
+
+    <h2>Archivos para verificar</h2>
+    <table>
+      <tr><td class="c">LEEME.md</td><td>Pasos para reproducir todo</td></tr>
+      <tr><td class="c">datos/</td><td>Archivo original, contorno y tablas derivadas de Yucatán</td></tr>
+      <tr><td class="c">analisis/</td><td>Los cálculos, paso por paso (01 a 03), y su verificación</td></tr>
+      <tr><td class="c">documento/</td><td>Fuente de este PDF y sus figuras</td></tr>
+    </table>
+  </div>
+</div>
+
+<footer>
+  <b>Uso de herramientas.</b> Análisis en Python; el dashboard de la fase 3 se construirá en Tableau. El equipo usó un asistente de IA (Claude, de Anthropic) como acompañamiento: búsqueda y revisión de fuentes, apoyo en la limpieza de datos y en los cálculos, verificación de cifras y revisión de redacción. La pregunta, la interpretación de resultados y el diseño del dashboard son decisiones del equipo. Todos los cálculos se verificaron contra los datos originales de CONAGUA.
+</footer>
+</div>
+
+</body>
+</html>
