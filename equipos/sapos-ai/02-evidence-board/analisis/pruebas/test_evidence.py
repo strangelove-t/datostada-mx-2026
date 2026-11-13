@@ -441,7 +441,25 @@ def test_resumen_por_sitio_frente_a_muestreos(datos, texto):
     alguna = ((x > 11) & ~cens).groupby(sitio).any()
     assert (len(mediana), int((mediana > 11).sum()), int(alguna.sum())) == (121, 3, 14)
     dice(texto, "0 sitios → 19 sitios")
-    dice(texto, "ninguno de los 88 sitios medidos lo supera. Muestreo por muestreo, 19 sitios lo superaron al menos una vez.")
+    dice(texto, "ninguno de los 88 sitios medidos lo supera. Muestreo por muestreo, 19 sitios lo superaron al menos una vez, en eventos repartidos entre 2012 y 2022.")
     dice(texto, "3 sitios → 14 sitios")
-    dice(texto, "lo superan 3 de 121 sitios. Muestreo por muestreo, 14 sitios lo superaron al menos una vez.")
+    dice(texto, "lo superan 3 de 121 sitios. Muestreo por muestreo, 14 sitios lo superaron al menos una vez; 11 de ellos solo en 2021 o 2022, y 10 de esos eventos son de una misma campaña (25 jul a 11 ago de 2022).")
     dice(texto, "no es el semáforo oficial")
+
+
+def test_nitratos_concentrados_en_una_campana(datos):
+    _, r, *_ = datos
+    v, cens, x = valores(r, "N_NO3")
+    e = r.loc[v.index[(x > 11) & ~cens]]
+    assert (len(e), e["CLAVE SITIO"].nunique()) == (18, 14)
+    solo_tarde = e.groupby("CLAVE SITIO")["ANIO"].apply(lambda s: set(s) <= {2021, 2022})
+    assert int(solo_tarde.sum()) == 11
+    campana = e[(e["FECHA"] >= "2022-07-25") & (e["FECHA"] <= "2022-08-11")]
+    assert len(campana) == 10
+
+
+def test_coliformes_sobre_mil_repartidos_en_el_tiempo(datos):
+    _, r, *_ = datos
+    v, cens, x = valores(r, "COLI_FEC")
+    anios = r.loc[v.index[(x > 1000) & ~cens], "ANIO"]
+    assert (anios.min(), anios.max(), anios.nunique()) == (2012, 2022, 8)
