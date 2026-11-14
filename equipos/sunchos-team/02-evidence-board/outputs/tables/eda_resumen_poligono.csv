@@ -1,0 +1,3 @@
+﻿zona_anillo_poligono,n_sitios,n_no3_mediana,n_no3_q1,n_no3_q3,n_no3_max,n_no3_pct_rebase,n_coli_validos,coli_mediana,coli_q1,coli_q3,coli_max,coli_pct_rebase_nom127,coli_pct_mayor_200,sdt_mediana,sdt_iqr,sdt_pct_rebase,conduct_mediana,dist_costa_mediana_km,pct_rojo,pct_amarillo
+Dentro Reserva,18,3.004,2.106,5.353,9.797,0.0,13,6.557,2.0,21.448,466.74,84.62,15.38,694.7,78.2,0.0,1120.0,61.1,0.0,33.33
+Fuera Reserva,103,4.364,2.905,5.939,13.897,2.91,75,2.52,0.5,15.33,408.664,52.0,5.33,775.0,468.5,28.16,1268.3,39.2,4.85,40.78

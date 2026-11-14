@@ -1,0 +1,17 @@
+﻿comparacion,parametro,grupo_a,n_a,mediana_a,iqr_a,grupo_b,n_b,mediana_b,iqr_b,u_mann_whitney,p_valor_bilateral,cliffs_delta
+Primaria: 24 Municipios (n=121),N-NO3 (mg/L),Dentro,33,4.755,2.502,Fuera,88,4.133,3.259,1445.0,0.969824,-0.0048
+Primaria: 24 Municipios (n=121),Coliformes fecales (NMP/100mL),Dentro,22,5.801,20.524,Fuera,66,2.26,14.912,847.5,0.223962,0.1674
+Primaria: 24 Municipios (n=121),SDT (mg/L),Dentro,33,715.12,163.0,Fuera,88,790.84,453.75,1128.0,0.059737,-0.2231
+Primaria: 24 Municipios (n=121),Conductividad (uS/cm),Dentro,33,1126.0,242.5,Fuera,88,1270.675,699.125,1088.5,0.034631,-0.2503
+Sensibilidad Frontera: 24 Muns. (n=119),N-NO3 (mg/L),Dentro,33,4.755,2.502,Fuera,86,4.201,3.214,1379.0,0.814619,-0.0282
+Sensibilidad Frontera: 24 Muns. (n=119),Coliformes fecales (NMP/100mL),Dentro,22,5.801,20.524,Fuera,64,1.25,14.343,843.5,0.150051,0.1982
+Sensibilidad Frontera: 24 Muns. (n=119),SDT (mg/L),Dentro,33,715.12,163.0,Fuera,86,794.0,481.25,1102.0,0.060279,-0.2234
+Sensibilidad Frontera: 24 Muns. (n=119),Conductividad (uS/cm),Dentro,33,1126.0,242.5,Fuera,86,1275.175,721.375,1066.5,0.036662,-0.2484
+Sensibilidad MAUP: Poligono Reserva (n=121),N-NO3 (mg/L),Dentro Reserva,18,3.004,3.247,Fuera Reserva,103,4.364,3.034,763.0,0.233695,-0.1769
+Sensibilidad MAUP: Poligono Reserva (n=121),Coliformes fecales (NMP/100mL),Dentro Reserva,13,6.557,19.448,Fuera Reserva,75,2.52,14.83,628.5,0.084858,0.2892
+Sensibilidad MAUP: Poligono Reserva (n=121),SDT (mg/L),Dentro Reserva,18,694.68,78.25,Fuera Reserva,103,775.0,468.5,657.0,0.049648,-0.2913
+Sensibilidad MAUP: Poligono Reserva (n=121),Conductividad (uS/cm),Dentro Reserva,18,1120.0,117.5,Fuera Reserva,103,1268.35,721.5,584.0,0.012605,-0.37
+Contraste Estructural: Cenote vs Pozo,N-NO3 (mg/L),CENOTE,8,1.13,2.878,POZO,113,4.507,3.035,130.0,0.000316,-0.7124
+Contraste Estructural: Cenote vs Pozo,Coliformes fecales (NMP/100mL),CENOTE,8,256.44,250.849,POZO,80,2.0,13.495,609.0,1.3e-05,0.9031
+Contraste Estructural: Cenote vs Pozo,SDT (mg/L),CENOTE,8,777.34,1032.675,POZO,113,761.0,319.0,567.0,0.232339,0.2544
+Contraste Estructural: Cenote vs Pozo,Conductividad (uS/cm),CENOTE,8,1270.675,1580.988,POZO,113,1205.0,476.5,583.0,0.173428,0.2898

@@ -1,0 +1,17 @@
+﻿esquema,columna,conteo_categorias,parametro,k_grupos,n_total,h_kruskal,p_valor_kw
+Opcion A (20%),entorno_2km_cat,"{'Agricola': 61, 'Urbano': 28, 'Natural / Sin presion dominante': 22, 'Mixto (Urbano-Agricola)': 10}",N-NO3,4,121,0.5525,0.907216
+Opcion A (20%),entorno_2km_cat,"{'Agricola': 61, 'Urbano': 28, 'Natural / Sin presion dominante': 22, 'Mixto (Urbano-Agricola)': 10}",Coliformes fecales,4,88,7.9073,0.047967
+Opcion A (20%),entorno_2km_cat,"{'Agricola': 61, 'Urbano': 28, 'Natural / Sin presion dominante': 22, 'Mixto (Urbano-Agricola)': 10}",SDT,4,121,4.5152,0.210936
+Opcion A (20%),entorno_2km_cat,"{'Agricola': 61, 'Urbano': 28, 'Natural / Sin presion dominante': 22, 'Mixto (Urbano-Agricola)': 10}",Conductividad,4,121,5.8945,0.11686
+Sensibilidad (10%),entorno_2km_t10,"{'Agricola': 67, 'Urbano': 31, 'Natural / Sin presion dominante': 13, 'Mixto (Urbano-Agricola)': 10}",N-NO3,4,121,0.809,0.847318
+Sensibilidad (10%),entorno_2km_t10,"{'Agricola': 67, 'Urbano': 31, 'Natural / Sin presion dominante': 13, 'Mixto (Urbano-Agricola)': 10}",Coliformes fecales,4,88,9.1616,0.027217
+Sensibilidad (10%),entorno_2km_t10,"{'Agricola': 67, 'Urbano': 31, 'Natural / Sin presion dominante': 13, 'Mixto (Urbano-Agricola)': 10}",SDT,4,121,3.0278,0.387356
+Sensibilidad (10%),entorno_2km_t10,"{'Agricola': 67, 'Urbano': 31, 'Natural / Sin presion dominante': 13, 'Mixto (Urbano-Agricola)': 10}",Conductividad,4,121,3.3512,0.340577
+Sensibilidad (30%),entorno_2km_t30,"{'Agricola': 48, 'Natural / Sin presion dominante': 38, 'Urbano': 25, 'Mixto (Urbano-Agricola)': 10}",N-NO3,4,121,0.3518,0.950012
+Sensibilidad (30%),entorno_2km_t30,"{'Agricola': 48, 'Natural / Sin presion dominante': 38, 'Urbano': 25, 'Mixto (Urbano-Agricola)': 10}",Coliformes fecales,4,88,17.485,0.000562
+Sensibilidad (30%),entorno_2km_t30,"{'Agricola': 48, 'Natural / Sin presion dominante': 38, 'Urbano': 25, 'Mixto (Urbano-Agricola)': 10}",SDT,4,121,8.2347,0.041403
+Sensibilidad (30%),entorno_2km_t30,"{'Agricola': 48, 'Natural / Sin presion dominante': 38, 'Urbano': 25, 'Mixto (Urbano-Agricola)': 10}",Conductividad,4,121,8.8212,0.031765
+Binario forzado (sin Natural/Mixto),entorno_2km_forzado_bin,"{'Agricola': 70, 'Urbano': 51}",N-NO3,2,121,0.3096,0.577942
+Binario forzado (sin Natural/Mixto),entorno_2km_forzado_bin,"{'Agricola': 70, 'Urbano': 51}",Coliformes fecales,2,88,5.0073,0.025241
+Binario forzado (sin Natural/Mixto),entorno_2km_forzado_bin,"{'Agricola': 70, 'Urbano': 51}",SDT,2,121,0.9738,0.323733
+Binario forzado (sin Natural/Mixto),entorno_2km_forzado_bin,"{'Agricola': 70, 'Urbano': 51}",Conductividad,2,121,1.8128,0.178176

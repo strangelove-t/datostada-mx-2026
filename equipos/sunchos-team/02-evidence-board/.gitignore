@@ -1,0 +1,2 @@
+# Excluir datos crudos y derivados completos pesados; en Git va muestra_datos/, scripts/ y outputs/
+data/

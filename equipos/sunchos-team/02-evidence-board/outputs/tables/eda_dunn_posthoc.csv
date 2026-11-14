@@ -1,0 +1,19 @@
+﻿factor,parametro,grupo_1,grupo_2,n_1,n_2,mediana_1,mediana_2,z_dunn,p_raw,p_holm
+Entorno 2km (Opcion A),Coliformes fecales,Agricola,Mixto (Urbano-Agricola),43,10,0.5,10.4868,-1.1037,0.269714,1.0
+Entorno 2km (Opcion A),Coliformes fecales,Agricola,Natural / Sin presion dominante,43,12,0.5,7.9057,-2.4831,0.013023,0.078136
+Entorno 2km (Opcion A),Coliformes fecales,Agricola,Urbano,43,23,0.5,6.3246,-1.9078,0.05642,0.282099
+Entorno 2km (Opcion A),Coliformes fecales,Mixto (Urbano-Agricola),Natural / Sin presion dominante,10,12,10.4868,7.9057,-0.9884,0.322959,1.0
+Entorno 2km (Opcion A),Coliformes fecales,Mixto (Urbano-Agricola),Urbano,10,23,10.4868,6.3246,-0.2781,0.78093,1.0
+Entorno 2km (Opcion A),Coliformes fecales,Natural / Sin presion dominante,Urbano,12,23,7.9057,6.3246,0.8926,0.372068,1.0
+Unidad Geo 54 (Recarga/Transito/Descarga/Fuera),SDT,Descarga,Fuera,7,37,1073.0,870.0,1.2694,0.204285,0.408571
+Unidad Geo 54 (Recarga/Transito/Descarga/Fuera),SDT,Descarga,Recarga,7,18,1073.0,694.68,3.0724,0.002124,0.010618
+Unidad Geo 54 (Recarga/Transito/Descarga/Fuera),SDT,Descarga,Transito,7,59,1073.0,729.5,2.9617,0.00306,0.012239
+Unidad Geo 54 (Recarga/Transito/Descarga/Fuera),SDT,Fuera,Recarga,37,18,870.0,694.68,2.9416,0.003265,0.012239
+Unidad Geo 54 (Recarga/Transito/Descarga/Fuera),SDT,Fuera,Transito,37,59,870.0,729.5,3.1507,0.001629,0.009771
+Unidad Geo 54 (Recarga/Transito/Descarga/Fuera),SDT,Recarga,Transito,18,59,694.68,729.5,-0.6856,0.492988,0.492988
+Unidad Geo 54 (Recarga/Transito/Descarga/Fuera),Conductividad,Descarga,Fuera,7,37,1671.0,1411.5,1.7547,0.079303,0.158605
+Unidad Geo 54 (Recarga/Transito/Descarga/Fuera),Conductividad,Descarga,Recarga,7,18,1671.0,1120.0,3.5423,0.000397,0.00238
+Unidad Geo 54 (Recarga/Transito/Descarga/Fuera),Conductividad,Descarga,Transito,7,59,1671.0,1205.0,2.9688,0.00299,0.0147
+Unidad Geo 54 (Recarga/Transito/Descarga/Fuera),Conductividad,Fuera,Recarga,37,18,1411.5,1120.0,2.9739,0.00294,0.0147
+Unidad Geo 54 (Recarga/Transito/Descarga/Fuera),Conductividad,Fuera,Transito,37,59,1411.5,1205.0,2.2105,0.027074,0.081221
+Unidad Geo 54 (Recarga/Transito/Descarga/Fuera),Conductividad,Recarga,Transito,18,59,1120.0,1205.0,-1.4524,0.146389,0.158605

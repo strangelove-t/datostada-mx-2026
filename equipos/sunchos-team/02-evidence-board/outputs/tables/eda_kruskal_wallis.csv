@@ -1,0 +1,9 @@
+﻿factor,parametro,k_grupos,n_total,h_kruskal,p_valor_kw
+Entorno 2km (Opcion A),N-NO3,4,121,0.5525,0.907216
+Entorno 2km (Opcion A),Coliformes fecales,4,88,7.9073,0.047967
+Entorno 2km (Opcion A),SDT,4,121,4.5152,0.210936
+Entorno 2km (Opcion A),Conductividad,4,121,5.8945,0.11686
+Unidad Geo 54 (Recarga/Transito/Descarga/Fuera),N-NO3,4,121,1.6871,0.6398
+Unidad Geo 54 (Recarga/Transito/Descarga/Fuera),Coliformes fecales,4,88,5.4069,0.144312
+Unidad Geo 54 (Recarga/Transito/Descarga/Fuera),SDT,4,121,19.4291,0.000223
+Unidad Geo 54 (Recarga/Transito/Descarga/Fuera),Conductividad,4,121,17.7589,0.000493

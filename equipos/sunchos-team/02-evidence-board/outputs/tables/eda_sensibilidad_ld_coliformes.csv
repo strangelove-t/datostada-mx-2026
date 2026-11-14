@@ -1,0 +1,4 @@
+﻿regla_censura,mediana_dentro,mediana_fuera,u_stat,p_valor,cliffs_delta
+LD/2 (0.5),5.801,2.26,847.5,0.223962,0.1674
+Cero (0.0),5.801,2.26,847.5,0.223962,0.1674
+LD (1.0),5.801,2.26,847.5,0.223962,0.1674

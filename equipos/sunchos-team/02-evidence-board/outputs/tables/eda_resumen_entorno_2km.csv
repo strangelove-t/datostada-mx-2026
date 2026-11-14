@@ -1,0 +1,5 @@
+﻿entorno_2km_cat,n_sitios,n_no3_mediana,n_no3_q1,n_no3_q3,n_no3_max,n_no3_pct_rebase,n_coli_validos,coli_mediana,coli_q1,coli_q3,coli_max,coli_pct_rebase_nom127,coli_pct_mayor_200,sdt_mediana,sdt_iqr,sdt_pct_rebase,conduct_mediana,dist_costa_mediana_km,pct_rojo,pct_amarillo
+Agricola,61,4.114,2.587,5.517,11.46,1.64,43,0.5,0.5,6.557,466.74,46.51,2.33,742.0,353.0,21.31,1187.0,55.8,1.64,40.98
+Mixto (Urbano-Agricola),10,5.074,3.09,5.689,6.99,0.0,10,10.487,0.5,23.711,53.53,60.0,0.0,868.8,192.6,20.0,1395.5,92.7,10.0,40.0
+Natural / Sin presion dominante,22,4.309,3.718,6.227,9.797,0.0,12,7.906,4.197,255.677,422.058,75.0,33.33,762.2,266.7,22.73,1288.5,43.9,4.55,36.36
+Urbano,28,3.578,2.76,6.05,13.897,7.14,23,6.325,0.5,29.658,408.664,65.22,4.35,738.5,487.0,32.14,1207.8,28.1,7.14,39.29

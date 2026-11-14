@@ -1,0 +1,5 @@
+﻿param_code,nombre_parametro,unidad_estandar,limite_nom127,criterio_nom127,grupo_semaforo
+N_NO3,Nitrogeno de nitratos (N-NO3),mg/L,11.0,> 11.0 mg/L,Rojo (Critico)
+COLI_FEC,Coliformes fecales,NMP/100 mL,0.0,Presencia (> 0 / no ausente en 100 mL),Rojo (Critico)
+SDT,Solidos Disueltos Totales (SDT),mg/L,1000.0,"> 1,000 mg/L",Amarillo (Salinizacion)
+CONDUCT,Conductividad electrica,uS/cm,2000.0,"> 2,000 uS/cm (referencia CONAGUA riego: dudosa/indeseable; NOM-127 no fija limite)",Amarillo (Salinizacion)
