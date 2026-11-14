@@ -1,0 +1,122 @@
+clave,sitio,municipio,subtipo,latitud,longitud,nitratos_mgL,nivel_nitratos,coliformes,nivel_coliformes,sdt,nivel_sdt,semaforo,contaminantes
+OCPYU4890,Pozo 4 de la Planta Merida IV,Uman,Pozo,20.9715,-89.7846,4.13,Dentro de rango,<1 NMP/100 mL (no detectado),Dentro de rango,923 mg/L,Dentro de rango,Verde,
+OCPYU4917,Pozo 1 del Sistema de Agua Potable de El Cuyo,Tizimin,Pozo,21.4091,-87.7112,1.0,Dentro de rango,<1 NMP/100 mL (no detectado),Dentro de rango,732 mg/L,Dentro de rango,Verde,
+OCPYU4918W1,Laguna Chabela,Chemax,Cenote,20.6614,-87.6113,0.06,Dentro de rango,254.9 NMP/100 mL,Atención,711 mg/L,Dentro de rango,Verde,
+OCPYU4919W1,Otoch Ma Ax Yetel Kooh 2,Chemax,Cenote,20.6503,-87.6387,0.12,Dentro de rango,258 NMP/100 mL,Atención,792 mg/L,Dentro de rango,Verde,
+OCPYU4920,Pozo 1 del Sistema de Agua Potable Chemax,Chemax,Pozo,20.651,-87.9381,4.77,Dentro de rango,32.4 NMP/100 mL,Dentro de rango,"1,094 mg/L",Atención,Rojo,AS
+OCPYU4923,"Pozo UADY (Bebidas Purificadas del Sureste, S.A. de C.V. Aguas Arriba)",Merida,Pozo,21.0492,-89.6445,3.45,Dentro de rango,144.9 NMP/100 mL,Dentro de rango,542 mg/L,Dentro de rango,Verde,
+OCPYU4925,Pozo 13 de la Planta Merida III de la JAPAY,Tixpehual,Pozo,20.9708,-89.503,4.0,Dentro de rango,9.5 NMP/100 mL,Dentro de rango,715 mg/L,Dentro de rango,Verde,
+OCPYU4926,Pozo 6 de la Planta Temozon Norte de la JAPAY,Merida,Pozo,21.0623,-89.6171,4.54,Dentro de rango,14.7 NMP/100 mL,Dentro de rango,734 mg/L,Dentro de rango,Verde,
+OCPYU4929,Cosgaya,Merida,Pozo,21.097,-89.7046,3.45,Dentro de rango,5.2 NMP/100 mL,Dentro de rango,"1,526 mg/L",Atención,Amarillo,"CONDUC, DT"
+OCPYU4930,"Komchen (Harinera de Yucatan, S.A. de C.V. Aguas Abajo)",Merida,Pozo,21.1033,-89.6616,5.98,Atención,43.2 NMP/100 mL,Dentro de rango,"1,104 mg/L",Atención,Amarillo,DT
+OCPYU4931,Santa Maria Yaxche,Merida,Pozo,21.1167,-89.6353,2.53,Dentro de rango,16.1 NMP/100 mL,Dentro de rango,655 mg/L,Dentro de rango,Verde,
+OCPYU4932,"Pozo 25 (Harinera de Yucatan, S.A. de C.V. Aguas Abajo)",Merida,Pozo,21.1054,-89.639,4.27,Dentro de rango,76.7 NMP/100 mL,Dentro de rango,741 mg/L,Dentro de rango,Verde,
+OCPYU4933M1,Dzitya,Merida,Cenote,21.0672,-89.6917,4.36,Dentro de rango,374.6 NMP/100 mL,Atención,763 mg/L,Dentro de rango,Rojo,AS
+OCPYU4934,Pozo 1 de Sierra Papacal,Merida,Pozo,21.1263,-89.7385,3.83,Dentro de rango,8.7 NMP/100 mL,Dentro de rango,"1,395 mg/L",Atención,Amarillo,"CONDUC, DT"
+OCPYU4943,Pozo 1 del Sistema de Agua Potable Espita,Espita,Pozo,21.0078,-88.2948,4.44,Dentro de rango,14.3 NMP/100 mL,Dentro de rango,603 mg/L,Dentro de rango,Verde,
+OCPYU4944,Pozo 3 (Santa Cruz) del Sistema de Agua Potable de Tizimin,Tizimin,Pozo,21.1318,-88.1351,6.99,Atención,24.5 NMP/100 mL,Dentro de rango,870 mg/L,Dentro de rango,Verde,
+OCPYU4945,Pozo 4 del Sistema de Agua Potable de Valladolid,Valladolid,Pozo,20.6812,-88.2138,5.91,Atención,53.5 NMP/100 mL,Dentro de rango,772 mg/L,Dentro de rango,Verde,
+OCPYU4946,Pozo 1 del Sistema de Agua Potable de Sotuta,Sotuta,Pozo,20.597,-89.0076,7.7,Atención,28.1 NMP/100 mL,Dentro de rango,628 mg/L,Dentro de rango,Verde,
+OCPYU4947,El Corchito,Progreso,Pozo,21.2786,-89.6329,2.97,Dentro de rango,15.5 NMP/100 mL,Dentro de rango,"1,682 mg/L",Atención,Amarillo,"CONDUC, DT"
+OCPYU4948W1,Chelentun,Cuzama,Cenote,20.7196,-89.3476,3.2,Dentro de rango,422.1 NMP/100 mL,Atención,685 mg/L,Dentro de rango,Amarillo,FE
+OCPYU4950W1,Anillo de Cenotes de Yucatan 1,Chapab,Cenote,20.5388,-89.4896,0.13,Dentro de rango,102.2 NMP/100 mL,Dentro de rango,"4,504 mg/L",Incumple,Amarillo,"CONDUC, DT, SDT_ra, SDT_sal"
+OCPYU4951,Pozo 1 del Sistema de Agua Potable de Ticul,Ticul,Pozo,20.397,-89.5565,5.77,Atención,19 NMP/100 mL,Dentro de rango,964 mg/L,Dentro de rango,Verde,
+OCPYU4952W1,Cenote Yaxbacaltun,Homun,Cenote,20.727,-89.2681,2.95,Dentro de rango,466.7 NMP/100 mL,Atención,687 mg/L,Dentro de rango,Verde,
+OCPYU4953W1,Anillo de Cenotes de Yucatan 5,Kopoma,Cenote,20.6894,-89.8761,1.02,Dentro de rango,146.8 NMP/100 mL,Dentro de rango,"1,623 mg/L",Atención,Amarillo,"CONDUC, DT"
+OCPYU4954,Pozo 5 de la Planta Merida II de la JAPAY,Uman,Pozo,20.8701,-89.6975,3.66,Dentro de rango,5.4 NMP/100 mL,Dentro de rango,658 mg/L,Dentro de rango,Verde,
+OCPYU4955,Pozo 1 de la Planta Merida III de la JAPAY,Tixpehual,Pozo,20.9688,-89.5318,6.25,Atención,5 NMP/100 mL,Dentro de rango,626 mg/L,Dentro de rango,Verde,
+OCPYU4956,Pozo 1 de la Planta Merida II de la JAPAY,Uman,Pozo,20.8838,-89.6926,4.34,Dentro de rango,<1 NMP/100 mL (no detectado),Dentro de rango,745 mg/L,Dentro de rango,Verde,
+OCPYU4959,"Juan Pablo II (Compañia Embotelladora del Sureste, S.A. de C.V. Aguas Abajo)",Merida,Pozo,20.9526,-89.6786,6.52,Atención,408.7 NMP/100 mL,Atención,751 mg/L,Dentro de rango,Verde,
+OCPYU4960,Itzincab,Uman,Pozo,20.916,-89.6947,3.31,Dentro de rango,15.2 NMP/100 mL,Dentro de rango,889 mg/L,Dentro de rango,Verde,
+OCPYU4961,Observatorío CNA,Merida,Pozo,20.9464,-89.6518,8.55,Atención,157.2 NMP/100 mL,Dentro de rango,535 mg/L,Dentro de rango,Verde,
+OCPYU4962,Pozo 10 Centro Deportivo del Sur (Compañia Embotelladora del Sureste S.A. de C.V. Aguas Arriba),Merida,Pozo,20.8997,-89.6567,5.37,Atención,90.5 NMP/100 mL,Dentro de rango,564 mg/L,Dentro de rango,Verde,
+OCPYU4963,Pozo 2 de la Planta Merida I de la JAPAY,Merida,Pozo,20.8445,-89.6005,4.75,Dentro de rango,6.6 NMP/100 mL,Dentro de rango,764 mg/L,Dentro de rango,Verde,
+OCPYU4964,Pozo 20 de la Planta Merida I de la JAPAY,Merida,Pozo,20.822,-89.599,3.88,Dentro de rango,6.3 NMP/100 mL,Dentro de rango,848 mg/L,Dentro de rango,Verde,
+OCPYU4965M1,Pozo 21 de la Planta Merida IV,Merida,Pozo,20.9687,-89.8044,4.13,Dentro de rango,5.6 NMP/100 mL,Dentro de rango,926 mg/L,Dentro de rango,Verde,
+OCPYU4966,Pozo 1 del Sistema de Agua Potable Hunucma,Hunucma,Pozo,21.013,-89.8667,5.83,Atención,13.9 NMP/100 mL,Dentro de rango,816 mg/L,Dentro de rango,Verde,
+OCPYU4973,Pozo 1 del Sistema de Agua Potable de Celestun,Celestun,Cenote,20.8503,-90.2356,1.24,Dentro de rango,9.4 NMP/100 mL,Dentro de rango,"2,082 mg/L",Incumple,Amarillo,"CONDUC, DT, SDT_ra, SDT_sal"
+OCPYU5381,Pozo 2 del  Sistema de Agua Potable de Peto,Merida,Pozo,20.1254,-88.9219,2.53,Dentro de rango,<1 NMP/100 mL (no detectado),Dentro de rango,"1,345 mg/L",Atención,Verde,
+OCPYU5382,Baca,Yaxkukul,Pozo,21.0652,-89.3994,2.86,Dentro de rango,87.9 NMP/100 mL,Dentro de rango,700 mg/L,Dentro de rango,Verde,
+OCPYU5633,Pozo 2 Dzitas,Dzitas,Pozo,20.84,-88.5254,1.94,Dentro de rango,<1 NMP/100 mL (no detectado),Dentro de rango,766 mg/L,Dentro de rango,Verde,
+OCPYU6384,Pozo 2 Opichen,Opichen,Pozo,20.5478,-89.86,2.77,Dentro de rango,6.3 NMP/100 mL,Dentro de rango,"1,283 mg/L",Atención,Amarillo,"CONDUC, DT"
+OCPYU6385,Pozo 1 San Mateo Oxkutzcab,Oxkutzcab,Pozo,20.3158,-89.4338,5.16,Atención,<1 NMP/100 mL (no detectado),Dentro de rango,872 mg/L,Dentro de rango,Amarillo,DT
+OCPYU6386,Pozo 1 Tzucacab,Tzucacab,Pozo,20.0677,-89.0519,6.45,Atención,<1 NMP/100 mL (no detectado),Dentro de rango,"1,322 mg/L",Atención,Amarillo,"CONDUC, DT"
+OCPYU6387,Pozo 2 Tunkas,Tunkas,Pozo,20.9079,-88.7491,6.02,Atención,<1 NMP/100 mL (no detectado),Dentro de rango,798 mg/L,Dentro de rango,Amarillo,DT
+OCPYU6388,Pozo 1 Tahdziu,Tahdziu,Pozo,20.2032,-88.9437,7.3,Atención,<1 NMP/100 mL (no detectado),Dentro de rango,801 mg/L,Dentro de rango,Amarillo,DT
+OCPYU6389,Pozo 1 Tahdzibichen,Yaxcaba,Pozo,20.4503,-88.8319,5.28,Atención,4.8 NMP/100 mL,Dentro de rango,558 mg/L,Dentro de rango,Verde,
+OCPYU6390,Pozo Motul,Motul,Pozo,21.0936,-89.2895,11.98,Incumple,<1 NMP/100 mL (no detectado),Dentro de rango,730 mg/L,Dentro de rango,Rojo,NO3
+OCPYU6391,Pozo 3 del Sistema de Agua Potable de Uman,Uman,Pozo,20.8751,-89.7584,2.72,Dentro de rango,<1 NMP/100 mL (no detectado),Dentro de rango,684 mg/L,Dentro de rango,Amarillo,DT
+OCPYU6392,Cuzama,Cuzama,Pozo,20.7413,-89.3171,1.85,Dentro de rango,88.4 NMP/100 mL,Dentro de rango,669 mg/L,Dentro de rango,Verde,
+OCPYU6393,Tixkokob,Tixkokob,Pozo,21.0093,-89.3976,5.45,Atención,<1 NMP/100 mL (no detectado),Dentro de rango,868 mg/L,Dentro de rango,Amarillo,DT
+OCPYU6394,Acanceh,Acanceh,Pozo,20.8128,-89.4536,7.09,Atención,6.6 NMP/100 mL,Dentro de rango,742 mg/L,Dentro de rango,Amarillo,"ALC, DT"
+OCPYU6395,Akil,Akil,Pozo,20.2656,-89.3478,1.13,Dentro de rango,<1 NMP/100 mL (no detectado),Dentro de rango,977 mg/L,Dentro de rango,Verde,
+OCPYU6396,Cacalchen,Cacalchen,Pozo,20.9822,-89.2278,5.22,Atención,<1 NMP/100 mL (no detectado),Dentro de rango,560 mg/L,Dentro de rango,Verde,
+OCPYU6397,Cansahcab,Cansahcab,Pozo,21.1568,-89.09,0.3,Dentro de rango,<1 NMP/100 mL (no detectado),Dentro de rango,543 mg/L,Dentro de rango,Verde,
+OCPYU6398,Caucel,Merida,Pozo,21.0147,-89.7069,9.02,Atención,<1 NMP/100 mL (no detectado),Dentro de rango,640 mg/L,Dentro de rango,Amarillo,"DT, FE"
+OCPYU6399,Chemax,Chemax,Pozo,20.655,-87.9372,5.19,Atención,<1 NMP/100 mL (no detectado),Dentro de rango,986 mg/L,Dentro de rango,Amarillo,"DT, FE"
+OCPYU6400,Chicxulub Pueblo,Chicxulub Pueblo,Pozo,21.1364,-89.5167,0.31,Dentro de rango,<1 NMP/100 mL (no detectado),Dentro de rango,736 mg/L,Dentro de rango,Amarillo,DT
+OCPYU6401,Chochola,Chochola,Pozo,20.7508,-89.8297,1.71,Dentro de rango,<1 NMP/100 mL (no detectado),Dentro de rango,"1,288 mg/L",Atención,Amarillo,"CONDUC, DT"
+OCPYU6402,Cholul,Merida,Pozo,21.0431,-89.5564,2.09,Dentro de rango,<1 NMP/100 mL (no detectado),Dentro de rango,727 mg/L,Dentro de rango,Verde,
+OCPYU6403,Cuzama.,Cuzama,Pozo,20.7429,-89.3269,1.92,Dentro de rango,<1 NMP/100 mL (no detectado),Dentro de rango,667 mg/L,Dentro de rango,Verde,
+OCPYU6404,Dzan,Dzan,Pozo,20.3869,-89.4675,5.01,Atención,<1 NMP/100 mL (no detectado),Dentro de rango,"1,153 mg/L",Atención,Amarillo,DT
+OCPYU6405,Halacho,Halacho,Pozo,20.4764,-90.0819,13.9,Incumple,2.5 NMP/100 mL,Dentro de rango,"1,948 mg/L",Atención,Rojo,"NO3, CONDUC, DT"
+OCPYU6406,Hocaba,Hocaba,Pozo,20.8159,-89.2411,3.03,Dentro de rango,2 NMP/100 mL,Dentro de rango,738 mg/L,Dentro de rango,Verde,
+OCPYU6407,Hoctun,Hoctun,Pozo,20.8644,-89.2019,1.18,Dentro de rango,6.6 NMP/100 mL,Dentro de rango,669 mg/L,Dentro de rango,Verde,
+OCPYU6408,Homun,Homun,Pozo,20.7393,-89.2952,1.67,Dentro de rango,21.4 NMP/100 mL,Dentro de rango,702 mg/L,Dentro de rango,Verde,
+OCPYU6409,Huhi,Huhi,Pozo,20.7273,-89.1632,2.02,Dentro de rango,2 NMP/100 mL,Dentro de rango,718 mg/L,Dentro de rango,Verde,
+OCPYU6410,Kanasin,Kanasin,Pozo,20.9344,-89.5578,6.33,Atención,<1 NMP/100 mL (no detectado),Dentro de rango,717 mg/L,Dentro de rango,Amarillo,DT
+OCPYU6411,Kinchil,Kinchil,Pozo,20.9161,-89.9469,4.85,Dentro de rango,<1 NMP/100 mL (no detectado),Dentro de rango,"1,170 mg/L",Atención,Amarillo,DT
+OCPYU6412,Mani,Mani,Pozo,20.3864,-89.3903,2.7,Dentro de rango,<1 NMP/100 mL (no detectado),Dentro de rango,849 mg/L,Dentro de rango,Amarillo,"DT, FE"
+OCPYU6413,Maxcanu,Maxcanu,Pozo,20.5831,-90.0008,3.7,Dentro de rango,<1 NMP/100 mL (no detectado),Dentro de rango,"1,893 mg/L",Atención,Amarillo,"CONDUC, DT"
+OCPYU6414,Muna,Muna,Pozo,20.4847,-89.7131,7.05,Atención,<1 NMP/100 mL (no detectado),Dentro de rango,"1,875 mg/L",Atención,Amarillo,"CONDUC, DT"
+OCPYU6415,Pozo Izamal,Izamal,Pozo,20.9391,-89.0129,4.89,Dentro de rango,4.8 NMP/100 mL,Dentro de rango,571 mg/L,Dentro de rango,Verde,
+OCPYU6416,Popola,Valladolid,Pozo,20.7319,-88.2361,2.95,Dentro de rango,<1 NMP/100 mL (no detectado),Dentro de rango,851 mg/L,Dentro de rango,Verde,
+OCPYU6417,Teabo,Teabo,Pozo,20.3997,-89.2844,3.29,Dentro de rango,<1 NMP/100 mL (no detectado),Dentro de rango,954 mg/L,Dentro de rango,Amarillo,DT
+OCPYU6418,Tecoh,Tecoh,Pozo,20.7419,-89.4744,4.75,Dentro de rango,21.3 NMP/100 mL,Dentro de rango,830 mg/L,Dentro de rango,Verde,
+OCPYU6419,Tekanto,Tekanto,Pozo,21.0106,-89.1056,3.82,Dentro de rango,<1 NMP/100 mL (no detectado),Dentro de rango,530 mg/L,Dentro de rango,Verde,
+OCPYU6420,Tekax de Alvaro Obregon,Tekax,Pozo,20.2019,-89.2881,5.61,Atención,<1 NMP/100 mL (no detectado),Dentro de rango,790 mg/L,Dentro de rango,Verde,
+OCPYU6421,Tekit,Tekit,Pozo,20.5322,-89.3314,2.36,Dentro de rango,2 NMP/100 mL,Dentro de rango,672 mg/L,Dentro de rango,Amarillo,DT
+OCPYU6422,Telchac Pueblo,Telchac Pueblo,Pozo,21.1897,-89.274,0.3,Dentro de rango,2 NMP/100 mL,Dentro de rango,694 mg/L,Dentro de rango,Verde,
+OCPYU6423,Temax,Temax,Pozo,21.1408,-88.9387,0.21,Dentro de rango,3 NMP/100 mL,Dentro de rango,454 mg/L,Dentro de rango,Verde,
+OCPYU6424,Temozon,Temozon,Pozo,20.8042,-88.2028,2.74,Dentro de rango,<1 NMP/100 mL (no detectado),Dentro de rango,694 mg/L,Dentro de rango,Amarillo,DT
+OCPYU6425,Tetiz,Tetiz,Pozo,20.9622,-89.9339,4.11,Dentro de rango,<1 NMP/100 mL (no detectado),Dentro de rango,966 mg/L,Dentro de rango,Amarillo,DT
+OCPYU6426,Timucuy,Timucuy,Pozo,20.8106,-89.5133,9.8,Atención,<1 NMP/100 mL (no detectado),Dentro de rango,750 mg/L,Dentro de rango,Verde,
+OCPYU6428,Tixkokob.,Tixkokob,Pozo,21.0022,-89.3936,4.96,Dentro de rango,<1 NMP/100 mL (no detectado),Dentro de rango,836 mg/L,Dentro de rango,Amarillo,DT
+OCPYU6429,Tixpheual,Tixpehual,Pozo,20.9778,-89.4417,5.05,Atención,<1 NMP/100 mL (no detectado),Dentro de rango,775 mg/L,Dentro de rango,Amarillo,"ALC, DT"
+OCPYU6430,Uayma,Uayma,Pozo,20.7169,-88.3167,1.84,Dentro de rango,<1 NMP/100 mL (no detectado),Dentro de rango,619 mg/L,Dentro de rango,Verde,
+OCPYU6431,Pozo 2 Piste,Tinum,Pozo,20.7044,-88.5895,8.4,Atención,4.8 NMP/100 mL,Dentro de rango,754 mg/L,Dentro de rango,Amarillo,DT
+OCPYU6432,Xocchel,Xocchel,Pozo,20.8379,-89.1825,2.59,Dentro de rango,12.2 NMP/100 mL,Dentro de rango,853 mg/L,Dentro de rango,Amarillo,DT
+OCPYU6433,Yaxcaba,Yaxcaba,Pozo,20.5481,-88.8272,5.37,Atención,<1 NMP/100 mL (no detectado),Dentro de rango,601 mg/L,Dentro de rango,Verde,
+OCPYU6437,SAP Xcuyum,Conkal,Pozo,21.0497,-89.495,3.09,Dentro de rango,Sin dato,Sin dato,609 mg/L,Dentro de rango,Verde,
+OCPYU6438,SAP Chcoho,Tixpehual,Pozo,20.9933,-89.4669,5.97,Atención,Sin dato,Sin dato,663 mg/L,Dentro de rango,Verde,
+OCPYU6439,SAP Paraiso,Maxcanu,Pozo,20.6756,-90.1172,5.66,Atención,Sin dato,Sin dato,"1,905 mg/L",Atención,Amarillo,"CONDUC, DT"
+OCPYU6440,SAP Santa Rosa,Maxcanu,Pozo,20.6061,-90.0886,7.94,Atención,Sin dato,Sin dato,"1,507 mg/L",Atención,Amarillo,"CONDUC, DT"
+OCPYU6441,SAP Suma,Suma,Pozo,21.0861,-89.1486,3.48,Dentro de rango,Sin dato,Sin dato,601 mg/L,Dentro de rango,Verde,
+OCPYU6442,SAP Nochacan,Cuzama,Pozo,20.7458,-89.3361,5.52,Atención,Sin dato,Sin dato,765 mg/L,Dentro de rango,Verde,
+OCPYU6444,SAP Kanachen,Kopoma,Pozo,20.605,-89.8867,8.32,Atención,Sin dato,Sin dato,"1,808 mg/L",Atención,Amarillo,"CONDUC, DT"
+OCPYU6445,SAP Kikteil,Merida,Pozo,21.1292,-89.6922,1.94,Dentro de rango,Sin dato,Sin dato,"1,872 mg/L",Atención,Amarillo,"CONDUC, DT"
+OCPYU6446,SAP Oxtapacab,Timucuy,Pozo,20.7711,-89.5042,7.3,Atención,Sin dato,Sin dato,853 mg/L,Dentro de rango,Amarillo,DT
+OCPYU6448,SAP Abala,Abala,Pozo,20.6467,-89.6797,3.49,Dentro de rango,Sin dato,Sin dato,"1,301 mg/L",Atención,Amarillo,DT
+OCPYU6449,SAP San Nicolas,Suma,Pozo,21.1061,-89.16,8.69,Atención,Sin dato,Sin dato,596 mg/L,Dentro de rango,Verde,
+OCPYU6451,SAP Tohopku,Tekal De Venegas,Pozo,21.0461,-88.932,3.36,Dentro de rango,Sin dato,Sin dato,428 mg/L,Dentro de rango,Verde,
+OCPYU6452,SAP Chenche de las Torres,Temax,Pozo,21.1297,-88.9814,5.25,Atención,Sin dato,Sin dato,395 mg/L,Dentro de rango,Verde,
+OCPYU6453,SAP Sacola,Muxupip,Pozo,21.1014,-89.3258,6.45,Atención,Sin dato,Sin dato,617 mg/L,Dentro de rango,Verde,
+OCPYU6455,SAP Muxupip,Muxupip,Pozo,21.0419,-89.3297,2.17,Dentro de rango,Sin dato,Sin dato,554 mg/L,Dentro de rango,Verde,
+OCPYU6460,SAP Paraiso,Progreso,Pozo,21.1931,-89.6506,0.84,Dentro de rango,Sin dato,Sin dato,"1,073 mg/L",Atención,Verde,
+OCPYU6465,SAP San Ignacio,Progreso,Pozo,21.1597,-89.66,8.17,Atención,Sin dato,Sin dato,"1,982 mg/L",Atención,Amarillo,"CONDUC, DT"
+OCPYU6469,SAP Tamanche,Merida,Pozo,21.1392,-89.6417,3.28,Dentro de rango,Sin dato,Sin dato,"1,333 mg/L",Atención,Amarillo,CONDUC
+OCPYU6471,SAP Kantoyna,Conkal,Pozo,21.1103,-89.525,2.08,Dentro de rango,Sin dato,Sin dato,664 mg/L,Dentro de rango,Verde,
+OCPYU6472,SAP San Antonio Millet,Tixkokob,Pozo,20.9728,-89.3961,4.28,Dentro de rango,Sin dato,Sin dato,762 mg/L,Dentro de rango,Verde,
+OCPYU6473,SAP Tikopo,Acanceh,Pozo,20.8892,-89.4394,4.86,Dentro de rango,Sin dato,Sin dato,687 mg/L,Dentro de rango,Verde,
+OCPYU6476,SAP Tepakan,Tepakan,Pozo,21.0486,-89.0389,11.46,Incumple,Sin dato,Sin dato,518 mg/L,Dentro de rango,Rojo,NO3
+OCPYU6477,SAP Dziuche,Hoctun,Pozo,20.9115,-89.1965,2.98,Dentro de rango,Sin dato,Sin dato,622 mg/L,Dentro de rango,Amarillo,DT
+OCPYU6478,Aguas Arriba de Gp-088,Kinchil,Pozo,20.9023,-89.9984,3.94,Dentro de rango,Sin dato,Sin dato,"1,170 mg/L",Atención,Amarillo,"CONDUC, DT"
+OCPYU6479,SAP San Antonio Tedzidz,Samahil,Pozo,20.8369,-89.9744,4.11,Dentro de rango,Sin dato,Sin dato,"1,443 mg/L",Atención,Amarillo,"CONDUC, DT"
+OCPYU6498,Aguas Arriba de Gp-104,Hunucma,Pozo,21.0344,-89.8333,7.81,Atención,Sin dato,Sin dato,871 mg/L,Dentro de rango,Verde,
+OCPYU6499,SAP San Antonio Chel,Hunucma,Pozo,20.9961,-89.8142,6.42,Atención,Sin dato,Sin dato,761 mg/L,Dentro de rango,Verde,
+OCPYU6500,SAP San Antonio Tzacala,Merida,Pozo,20.75,-89.6539,7.52,Atención,Sin dato,Sin dato,996 mg/L,Dentro de rango,Amarillo,DT
+OCPYU6501,SAP Uayalceh,Abala,Pozo,20.6944,-89.5939,5.21,Atención,Sin dato,Sin dato,"1,146 mg/L",Atención,Amarillo,DT
+OCPYU6512,SAP Holactun,Tahmek,Pozo,20.8764,-89.3283,6.26,Atención,Sin dato,Sin dato,519 mg/L,Dentro de rango,Verde,
+OCPYU6513,SAP Peba,Abala,Pozo,20.7188,-89.6859,4.51,Dentro de rango,Sin dato,Sin dato,"1,275 mg/L",Atención,Amarillo,"CONDUC, DT"
+OCPYU6514,SAP Tixacaclpuyul,Yaxcaba,Pozo,20.5014,-88.9185,6.41,Atención,Sin dato,Sin dato,421 mg/L,Dentro de rango,Verde,
+OCPYU6515,Hacienda Kanan,Izamal,Pozo,20.9829,-88.9706,5.31,Atención,Sin dato,Sin dato,427 mg/L,Dentro de rango,Verde,
