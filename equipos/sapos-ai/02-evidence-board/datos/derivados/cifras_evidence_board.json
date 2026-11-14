@@ -1,0 +1,384 @@
+{
+  "general": {
+    "COLI_FEC": {
+      "muestreos": 602,
+      "sobre": 216,
+      "pct": 35.9
+    },
+    "SDT": {
+      "muestreos": 681,
+      "sobre": 181,
+      "pct": 26.6
+    },
+    "DUR_TOT": {
+      "muestreos": 647,
+      "sobre": 218,
+      "pct": 33.7
+    },
+    "N_NO3": {
+      "muestreos": 613,
+      "sobre": 18,
+      "pct": 2.9
+    },
+    "AS_TOT": {
+      "muestreos": 600,
+      "sobre": 18,
+      "pct": 3.0
+    },
+    "CR_TOT": {
+      "muestreos": 557,
+      "sobre": 10,
+      "pct": 1.8
+    },
+    "PB_TOT": {
+      "muestreos": 538,
+      "sobre": 0,
+      "pct": 0.0
+    },
+    "HG_TOT": {
+      "muestreos": 626,
+      "sobre": 0,
+      "pct": 0.0
+    },
+    "CD_TOT": {
+      "muestreos": 577,
+      "sobre": 0,
+      "pct": 0.0
+    }
+  },
+  "por_zona": {
+    "Poniente": {
+      "sitios": 9,
+      "SDT": {
+        "muestreos": 30,
+        "sobre": 26,
+        "pct": 86.7
+      },
+      "DUR_TOT": {
+        "muestreos": 29,
+        "sobre": 26,
+        "pct": 89.7
+      },
+      "COLI_FEC": {
+        "muestreos": 22,
+        "sobre": 6,
+        "pct": 27.3
+      },
+      "SDT_sitios_alguna_vez": 9,
+      "SDT_sitios_mayoria": 9,
+      "SDT_mediana_de_sitios": 1506.5,
+      "COLI_sitios_medidos": 5,
+      "COLI_sitios_detectado": 2,
+      "COLI_FEC_solo_pozos": {
+        "muestreos": 11,
+        "sobre": 2,
+        "pct": 18.2
+      },
+      "COLI_FEC_solo_cenotes": {
+        "muestreos": 11,
+        "sobre": 4,
+        "pct": 36.4
+      }
+    },
+    "Franja de Mérida": {
+      "sitios": 69,
+      "SDT": {
+        "muestreos": 465,
+        "sobre": 133,
+        "pct": 28.6
+      },
+      "DUR_TOT": {
+        "muestreos": 438,
+        "sobre": 152,
+        "pct": 34.7
+      },
+      "COLI_FEC": {
+        "muestreos": 416,
+        "sobre": 140,
+        "pct": 33.7
+      },
+      "SDT_sitios_alguna_vez": 33,
+      "SDT_sitios_mayoria": 21,
+      "SDT_mediana_de_sitios": 765.0,
+      "COLI_sitios_medidos": 48,
+      "COLI_sitios_detectado": 31,
+      "COLI_FEC_solo_pozos": {
+        "muestreos": 368,
+        "sobre": 103,
+        "pct": 28.0
+      },
+      "COLI_FEC_solo_cenotes": {
+        "muestreos": 48,
+        "sobre": 37,
+        "pct": 77.1
+      }
+    },
+    "Centro": {
+      "sitios": 30,
+      "SDT": {
+        "muestreos": 105,
+        "sobre": 10,
+        "pct": 9.5
+      },
+      "DUR_TOT": {
+        "muestreos": 103,
+        "sobre": 26,
+        "pct": 25.2
+      },
+      "COLI_FEC": {
+        "muestreos": 83,
+        "sobre": 27,
+        "pct": 32.5
+      },
+      "SDT_sitios_alguna_vez": 4,
+      "SDT_sitios_mayoria": 2,
+      "SDT_mediana_de_sitios": 624.5,
+      "COLI_sitios_medidos": 22,
+      "COLI_sitios_detectado": 11,
+      "COLI_FEC_solo_pozos": {
+        "muestreos": 68,
+        "sobre": 13,
+        "pct": 19.1
+      },
+      "COLI_FEC_solo_cenotes": {
+        "muestreos": 15,
+        "sobre": 14,
+        "pct": 93.3
+      }
+    },
+    "Oriente": {
+      "sitios": 13,
+      "SDT": {
+        "muestreos": 81,
+        "sobre": 12,
+        "pct": 14.8
+      },
+      "DUR_TOT": {
+        "muestreos": 77,
+        "sobre": 14,
+        "pct": 18.2
+      },
+      "COLI_FEC": {
+        "muestreos": 81,
+        "sobre": 43,
+        "pct": 53.1
+      },
+      "SDT_sitios_alguna_vez": 4,
+      "SDT_sitios_mayoria": 2,
+      "SDT_mediana_de_sitios": 765.5,
+      "COLI_sitios_medidos": 13,
+      "COLI_sitios_detectado": 7,
+      "COLI_FEC_solo_pozos": {
+        "muestreos": 58,
+        "sobre": 21,
+        "pct": 36.2
+      },
+      "COLI_FEC_solo_cenotes": {
+        "muestreos": 23,
+        "sobre": 22,
+        "pct": 95.7
+      }
+    }
+  },
+  "por_subtipo": {
+    "Pozo": {
+      "sitios": 113,
+      "COLI_FEC": {
+        "muestreos": 505,
+        "sobre": 139,
+        "pct": 27.5
+      },
+      "SDT": {
+        "muestreos": 582,
+        "sobre": 142,
+        "pct": 24.4
+      },
+      "COLI_sitios_medidos": 80,
+      "COLI_sitios_detectado": 43,
+      "COLI_sitios_mayoria": 11
+    },
+    "Cenote": {
+      "sitios": 8,
+      "COLI_FEC": {
+        "muestreos": 97,
+        "sobre": 77,
+        "pct": 79.4
+      },
+      "SDT": {
+        "muestreos": 99,
+        "sobre": 39,
+        "pct": 39.4
+      },
+      "COLI_sitios_medidos": 8,
+      "COLI_sitios_detectado": 8,
+      "COLI_sitios_mayoria": 7
+    }
+  },
+  "clases_por_sitio": {
+    "SDT": {
+      "sin_medir": 0,
+      "nunca": 71,
+      "a_veces": 16,
+      "mayoria": 34
+    },
+    "DUR_TOT": {
+      "sin_medir": 0,
+      "nunca": 38,
+      "a_veces": 29,
+      "mayoria": 54
+    },
+    "COLI_FEC": {
+      "sin_medir": 33,
+      "nunca": 37,
+      "a_veces": 33,
+      "mayoria": 18
+    }
+  },
+  "tendencia_sdt": {
+    "sitios": 30,
+    "anios_min": 8,
+    "sube": 0,
+    "baja": 3,
+    "sin_tendencia": 27
+  },
+  "coliformes_sitios_largos_2012_2020": {
+    "min_pct": 13.8,
+    "max_pct": 59.3,
+    "por_anio": {
+      "2012": [
+        37.9,
+        29
+      ],
+      "2013": [
+        46.7,
+        60
+      ],
+      "2014": [
+        59.3,
+        59
+      ],
+      "2015": [
+        24.6,
+        57
+      ],
+      "2016": [
+        36.8,
+        38
+      ],
+      "2017": [
+        52.6,
+        38
+      ],
+      "2018": [
+        31.3,
+        67
+      ],
+      "2019": [
+        52.6,
+        19
+      ],
+      "2020": [
+        13.8,
+        29
+      ]
+    }
+  },
+  "sdt_mitad_o_mas": {
+    "sitios": 34,
+    "al_oeste_de_89.6": 25
+  },
+  "sitios_largos": {
+    "total": 30,
+    "cenotes": 5
+  },
+  "coliformes_cobertura": {
+    "sin_medir_son_los_nuevos_de_2022": true,
+    "2022": [
+      42,
+      82
+    ],
+    "2023": [
+      0,
+      40
+    ]
+  },
+  "atender": {
+    "por_zona": {
+      "Poniente": {
+        "Ninguno recurrente": 0,
+        "Sales o dureza": 8,
+        "Bacterias": 0,
+        "Ambos": 1
+      },
+      "Franja de Mérida": {
+        "Ninguno recurrente": 24,
+        "Sales o dureza": 33,
+        "Bacterias": 9,
+        "Ambos": 3
+      },
+      "Centro": {
+        "Ninguno recurrente": 22,
+        "Sales o dureza": 7,
+        "Bacterias": 1,
+        "Ambos": 0
+      },
+      "Oriente": {
+        "Ninguno recurrente": 6,
+        "Sales o dureza": 3,
+        "Bacterias": 3,
+        "Ambos": 1
+      }
+    },
+    "total": {
+      "Ninguno recurrente": 52,
+      "Sales o dureza": 51,
+      "Bacterias": 13,
+      "Ambos": 5
+    },
+    "sin_coliformes": {
+      "Ninguno recurrente": 15,
+      "Sales o dureza": 18,
+      "Bacterias": 0,
+      "Ambos": 0
+    },
+    "ambos": [
+      "Chapab (cenote)",
+      "Chemax (pozo)",
+      "Halacho (pozo)",
+      "Kopoma (cenote)",
+      "Opichen (pozo)"
+    ],
+    "municipios_poniente": [
+      "Celestun",
+      "Halacho",
+      "Kinchil",
+      "Maxcanu",
+      "Samahil",
+      "Tetiz"
+    ]
+  },
+  "resumen_por_sitio": {
+    "coliformes_sitios_medidos": 88,
+    "coliformes_media_geometrica_sobre_1000": 0,
+    "coliformes_algun_muestreo_sobre_1000": 19,
+    "nitratos_mediana_sobre_11": 3,
+    "nitratos_algun_muestreo_sobre_11": 14
+  },
+  "calidad": {
+    "grafias_municipio_en_fuente": 75,
+    "municipios": 64,
+    "censurados_pct": {
+      "COLI_FEC": 64.1,
+      "AS_TOT": 96.5,
+      "CR_TOT": 81.9,
+      "PB_TOT": 98.1,
+      "HG_TOT": 89.9,
+      "CD_TOT": 100.0,
+      "N_NO3": 3.1,
+      "SDT": 0.0,
+      "DUR_TOT": 0.0
+    },
+    "sitios_sin_coliformes": 33,
+    "duplicados_sitio_fecha": 0
+  }
+}
