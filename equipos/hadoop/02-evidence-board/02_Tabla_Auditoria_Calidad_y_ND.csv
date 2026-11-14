@@ -1,0 +1,16 @@
+﻿Columna_Cumplimiento,Columna_Concentracion,Parametro,Categoria_Riesgo,Estadistico_CONAGUA,Umbral_Normativo,Total_Sitios_Yucatan,Registros_Validos,Valores_Bajo_LOD_Censurados,Cumple_SI_n,Cumple_SI_pct_total,Incumple_NO_n,Incumple_NO_pct_total,Incumple_NO_pct_validos,Faltantes_ND_n,Faltantes_ND_pct
+CUMPLE_CF,COLI_FEC,Coliformes Fecales (CF),Primario (Salud / FAAP),Media Geométrica,"> 1,000 NMP/100 mL",121,88,38,88,72.73,0,0.0,0.0,33,27.27
+CUMPLE_NO3,N_NO3,Nitrógeno de Nitratos (N-NO3),Primario (Salud / FAAP),Mediana,> 11 mg/L,121,121,0,118,97.52,3,2.48,2.48,0,0.0
+CUMPLE_FLUO,FLUORUROS,Fluoruros (FLUO),Primario (Salud / FAAP),Mediana,>= 1.5 mg/L,121,121,23,121,100.0,0,0.0,0.0,0,0.0
+CUMPLE_AS,AS_TOT,Arsénico Total (As),Primario (Salud / FAAP),Promedio,> 0.025 mg/L,121,121,105,119,98.35,2,1.65,1.65,0,0.0
+CUMPLE_CD,CD_TOT,Cadmio Total (Cd),Primario (Salud / FAAP),Promedio,> 0.005 mg/L,121,121,121,121,100.0,0,0.0,0.0,0,0.0
+CUMPLE_CR,CR_TOT,Cromo Total (Cr),Primario (Salud / FAAP),Promedio,> 0.05 mg/L,121,121,64,121,100.0,0,0.0,0.0,0,0.0
+CUMPLE_HG,HG_TOT,Mercurio Total (Hg),Primario (Salud / FAAP),Promedio,> 0.006 mg/L,121,121,91,121,100.0,0,0.0,0.0,0,0.0
+CUMPLE_PB,PB_TOT,Plomo Total (Pb),Primario (Salud / FAAP),Promedio,> 0.01 mg/L,121,121,113,121,100.0,0,0.0,0.0,0,0.0
+CUMPLE_DUR,DUR,Dureza Total (DUR),Secundario (Kárstico / Riego),Mediana,> 500 mg/L,121,121,0,74,61.16,47,38.84,38.84,0,0.0
+CUMPLE_ALC,ALC,Alcalinidad (ALC),Secundario (Kárstico / Riego),Mediana,< 20 o > 400 mg/L,121,121,0,119,98.35,2,1.65,1.65,0,0.0
+CUMPLE_COND,CONDUCT,Conductividad Eléctrica (CONDUCT),Secundario (Kárstico / Riego),Mediana,"> 2,000 µS/cm",121,121,0,100,82.64,21,17.36,17.36,0,0.0
+CUMPLE_SDT_ra,SDT,SDT — Riego Agrícola (SDT_ra),Secundario (Kárstico / Riego),Mediana,"> 2,000 / > 5,000 mg/L",121,121,0,119,98.35,2,1.65,1.65,0,0.0
+CUMPLE_SDT_salin,SDT,SDT — Salinización / Agua Salobre (SDT_salin),Secundario (Kárstico / Riego),Mediana,"> 2,000 (Salobre) / > 1,000 mg/L",121,121,0,119,98.35,2,1.65,1.65,0,0.0
+CUMPLE_FE,FE_TOT,Hierro Total (Fe),Secundario (Kárstico / Riego),Promedio,> 0.3 mg/L,121,121,15,117,96.69,4,3.31,3.31,0,0.0
+CUMPLE_MN,MN_TOT,Manganeso Total (Mn),Secundario (Kárstico / Riego),Promedio,> 0.4 mg/L,121,121,40,121,100.0,0,0.0,0.0,0,0.0
