@@ -1,0 +1,247 @@
+{
+ "estabilidad": {
+  "sales": {
+   "largos": 30,
+   "largos_mantienen": 15,
+   "pares_de_anios": 402,
+   "pares_iguales": 349,
+   "pares_iguales_pct": 86.8,
+   "sitios": 121,
+   "siempre": 23,
+   "nunca": 71,
+   "cambian": 27,
+   "con_un_solo_anio": 0,
+   "mantienen": 94
+  },
+  "bacterias": {
+   "largos": 30,
+   "largos_mantienen": 2,
+   "pares_de_anios": 358,
+   "pares_iguales": 251,
+   "pares_iguales_pct": 70.1,
+   "sitios": 88,
+   "siempre": 3,
+   "nunca": 37,
+   "cambian": 48,
+   "con_un_solo_anio": 0,
+   "mantienen": 40
+  },
+  "bacterias_umbral_30": {
+   "largos": 30,
+   "largos_mantienen": 3,
+   "pares_de_anios": 358,
+   "pares_iguales": 277,
+   "pares_iguales_pct": 77.4,
+   "sitios": 88,
+   "siempre": 2,
+   "nunca": 49,
+   "cambian": 37,
+   "con_un_solo_anio": 0,
+   "mantienen": 51
+  }
+ },
+ "calidad": {
+  "sitio_anios": 523,
+  "sitio_anios_con_un_muestreo": 432,
+  "sitios_con_dos_muestreos": 56,
+  "ultima_fecha_con_coliformes": "2022-10-31",
+  "limites_de_deteccion_coliformes": [
+   "<1",
+   "<2",
+   "<3",
+   "<10",
+   "<30"
+  ],
+  "sin_coliformes_por_clase": {
+   "Ambos": 0,
+   "Bacterias": 0,
+   "Ninguno recurrente": 15,
+   "Sales o dureza": 18
+  }
+ },
+ "coliformes_por_subtipo": {
+  "Cenote": {
+   "muestreos": 97,
+   "con_deteccion": 77,
+   "pct": 79.4
+  },
+  "Pozo": {
+   "muestreos": 505,
+   "con_deteccion": 139,
+   "pct": 27.5
+  }
+ },
+ "perfil": {
+  "sales_longitud": {
+   "rho": -0.54,
+   "sitios": 121
+  },
+  "sales_latitud": {
+   "rho": -0.17,
+   "sitios": 121
+  },
+  "bacterias_longitud": {
+   "rho": -0.02,
+   "sitios": 88
+  },
+  "bacterias_latitud": {
+   "rho": 0.03,
+   "sitios": 88
+  },
+  "bacterias_longitud_solo_pozos": {
+   "rho": -0.05,
+   "sitios": 80
+  }
+ },
+ "sensibilidad_cortes": [
+  {
+   "meridiano": -90.0,
+   "poniente_pct": 86.4,
+   "poniente_muestreos": 22,
+   "oriente_pct": 24.6,
+   "oriente_muestreos": 659
+  },
+  {
+   "meridiano": -89.9,
+   "poniente_pct": 86.7,
+   "poniente_muestreos": 30,
+   "oriente_pct": 23.8,
+   "oriente_muestreos": 651
+  },
+  {
+   "meridiano": -89.8,
+   "poniente_pct": 67.5,
+   "poniente_muestreos": 77,
+   "oriente_pct": 21.4,
+   "oriente_muestreos": 604
+  },
+  {
+   "meridiano": -89.7,
+   "poniente_pct": 69.0,
+   "poniente_muestreos": 113,
+   "oriente_pct": 18.1,
+   "oriente_muestreos": 568
+  },
+  {
+   "meridiano": -89.6,
+   "poniente_pct": 38.8,
+   "poniente_muestreos": 356,
+   "oriente_pct": 13.2,
+   "oriente_muestreos": 325
+  },
+  {
+   "meridiano": -89.5,
+   "poniente_pct": 34.5,
+   "poniente_muestreos": 417,
+   "oriente_pct": 14.0,
+   "oriente_muestreos": 264
+  },
+  {
+   "meridiano": -89.4,
+   "poniente_pct": 35.0,
+   "poniente_muestreos": 448,
+   "oriente_pct": 10.3,
+   "oriente_muestreos": 233
+  },
+  {
+   "meridiano": -89.3,
+   "poniente_pct": 32.1,
+   "poniente_muestreos": 495,
+   "oriente_pct": 11.8,
+   "oriente_muestreos": 186
+  },
+  {
+   "meridiano": -89.2,
+   "poniente_pct": 30.1,
+   "poniente_muestreos": 535,
+   "oriente_pct": 13.7,
+   "oriente_muestreos": 146
+  },
+  {
+   "meridiano": -89.1,
+   "poniente_pct": 29.3,
+   "poniente_muestreos": 549,
+   "oriente_pct": 15.2,
+   "oriente_muestreos": 132
+  },
+  {
+   "meridiano": -89.0,
+   "poniente_pct": 28.4,
+   "poniente_muestreos": 573,
+   "oriente_pct": 16.7,
+   "oriente_muestreos": 108
+  }
+ ],
+ "municipios": {
+  "monitoreados": 65,
+  "con_algo_que_atender": 41,
+  "lista": [
+   {
+    "municipio": "MERIDA",
+    "atender": 13,
+    "sitios": 19
+   },
+   {
+    "municipio": "CHEMAX",
+    "atender": 4,
+    "sitios": 4
+   },
+   {
+    "municipio": "CUZAMA",
+    "atender": 3,
+    "sitios": 4
+   },
+   {
+    "municipio": "ABALA",
+    "atender": 3,
+    "sitios": 3
+   },
+   {
+    "municipio": "MAXCANU",
+    "atender": 3,
+    "sitios": 3
+   },
+   {
+    "municipio": "PROGRESO",
+    "atender": 3,
+    "sitios": 3
+   },
+   {
+    "municipio": "TIXKOKOB",
+    "atender": 3,
+    "sitios": 3
+   },
+   {
+    "municipio": "ACANCEH",
+    "atender": 2,
+    "sitios": 2
+   },
+   {
+    "municipio": "KINCHIL",
+    "atender": 2,
+    "sitios": 2
+   },
+   {
+    "municipio": "KOPOMA",
+    "atender": 2,
+    "sitios": 2
+   },
+   {
+    "municipio": "UMAN",
+    "atender": 1,
+    "sitios": 5
+   },
+   {
+    "municipio": "TIXPEHUAL",
+    "atender": 1,
+    "sitios": 4
+   }
+  ]
+ },
+ "sitios": {
+  "total": 121,
+  "muestreos_min": 2,
+  "muestreos_max": 28,
+  "sin_medicion_de_coliformes": 33
+ }
+}
